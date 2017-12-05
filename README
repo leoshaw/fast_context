@@ -3,7 +3,7 @@ FastContext
 
 Make your shoulda contexts faster by combining the 'should' blocks.
 
-See http://m.onkey.org/2009/9/20/make-your-shoulda-tests-faster-with-fast_context for details.
+See https://web.archive.org/web/20140925010548/http://m.onkey.org/make-your-shoulda-tests-faster-with-fast_context for details.
 
 Installation
 ============
